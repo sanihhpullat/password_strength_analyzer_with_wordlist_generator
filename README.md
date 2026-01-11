@@ -31,8 +31,9 @@ This project is a Python-based tool that analyzes password strength and generate
 4. The tool generates password variations based on common patterns.
 5. The generated wordlist is saved as a text file.
 
-## How to Run
+## how to run
 ```bash
 pip install zxcvbn
-python password_tool.py
+python password_tool_project.py
+
 
